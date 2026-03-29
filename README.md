@@ -1,10 +1,3 @@
-# 启动教程
-
-- 项目录屏：https://www.bilibili.com/video/BV1ni4y1B7xp
-- 启动教程：https://www.bilibili.com/video/BV1pW4y1P7GR
-- 安装包在视频详情中已提供。
-
-
 # 项目简介
 基于Vue.js和SpringBoot的学生宿舍管理系统，分为管理后台和用户网页端，可以给管理员、学生、宿管员角色使用，包括公寓资产、缴费信息、清理场所、日常事务、床位安排模块和系统基础模块，项目编号T035。
 
